@@ -26,7 +26,7 @@ progressbar2==3.39.3
 PyMySQL==0.9.3
 python-utils==2.3.0
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.4
 requests==2.20.0
 six==1.12.0
 slugify==0.0.1
