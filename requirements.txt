@@ -20,7 +20,7 @@ jdcal==1.4
 mysqlclient==1.4.2
 odfpy==1.4.0
 openpyxl==2.5.12
-Pillow==6.0.0
+Pillow==9.0.0
 Pillow-PIL==0.1.dev0
 progressbar2==3.39.3
 PyMySQL==0.9.3
